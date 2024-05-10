@@ -126,7 +126,7 @@ local mod_settings =
 				value_default = "",
 				text_max_length = 5,
 				allowed_characters = "0123456789",
-				scope = MOD_SETTING_SCOPE_NEW_GAME,
+				scope = MOD_SETTING_SCOPE_RUNTIME,
 			},
 			{
 				id = "slot_name",
